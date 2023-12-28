@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ebubethedev&show_icons=true&theme=radical" />
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubethedev&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubethedev&layout=compact" />
 
 
 <img align="left" alt="freecodecamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
